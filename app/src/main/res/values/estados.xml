@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados_array">
+        <item>São Paulo</item>
+        <item>Minas Gerais</item>
+        <item>Bahia</item>
+        <item>Paraná</item>
+        <item>Rio de Janeiro</item>
+        <item>Santa Catarina</item>
+        <item>Rio Grande do Sul</item>
+    </string-array>
+</resources>
